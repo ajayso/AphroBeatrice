@@ -4,7 +4,7 @@
 # 1. will get the script code from NSE 
 # 2. will get individual prices for the given script_code
 # 3. will store the data on Blob storage...
-#
+# Authors : Jay Harer, Ajay Solanki
 import sys
 from nsetools import Nse
 nse = Nse()
